@@ -6,7 +6,9 @@
 <br>
 
 > #### 🔗 배포 사이트 : https://taingeleven.netlify.app/
-
+- [프로젝트 발표 자료](https://www.canva.com/design/DAFvXwj_9G0/LPpidrfVKb876IYg_sfsEA/edit?ui=eyJHIjp7fX0)
+- [ERD](https://drive.google.com/file/d/1DDkYGZQnJotee6cLi48OYVfC_S6gxoIu/view?usp=sharing)
+- [PB - tv](https://straight-alarm.pockethost.io/api/collections/tv/records)
 <br>
 
 OTT 사이트 TAING을 구현하였습니다.
